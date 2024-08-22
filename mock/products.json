@@ -1,81 +1,81 @@
 [
   {
     "id": 1,
-    "name": "Caramel Latte",
-    "price": 35000,
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-1.webp",
+    "name": "Combo Eminence Organics",
+    "price": 850000,
+    "image": "src/static/products/product5.png",
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
     "categoryId": ["coffee", "drinks"],
     "variantId": ["size", "topping"]
   },
   {
     "id": 2,
-    "name": "Mocha Frappuccino",
-    "price": 45000,
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-2.webp",
+    "name": "Combo La Roche-Posay: Face Wash & Cleansers",
+    "price": 1150000,
+    "image": "src/static/products/product4.png",
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
     "categoryId": ["coffee"],
     "variantId": ["size", "topping"]
   },
   {
     "id": 3,
-    "name": "Grilled Pork Banh Mi",
-    "price": 30000,
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-3.webp",
+    "name": "10 Best Skincare Products to Reduce Redness",
+    "price": 1300000,
+    "image": "src/static/products/product3.png",
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
     "categoryId": ["food", "bread"],
     "variantId": ["size"]
   },
   {
     "id": 4,
-    "name": "Pizza",
-    "price": 28000,
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-4.webp",
+    "name": "La Roche-Posay Effaclar Purifyng Gel",
+    "price": 380000,
+    "image": "src/static/products/product2.png",
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
     "categoryId": ["food"],
     "variantId": ["size"]
   },
   {
     "id": 5,
-    "name": "Vanilla Latte",
-    "price": 35000,
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-5.webp",
+    "name": "Combo: Teenage Summer Day Skincare",
+    "price": 550000,
+    "image": "src/static/products/product1.png",
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
     "categoryId": ["coffee", "matcha"],
     "variantId": ["size", "topping"]
   },
   {
     "id": 6,
-    "name": "Caramel Macchiato",
+    "name": "What is your acne telling you?",
     "price": 38000,
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-6.webp",
+    "image": "src/static/news/causes.png",
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
     "categoryId": ["coffee", "milktea"],
     "variantId": ["size", "topping"]
   },
   {
     "id": 7,
-    "name": "Espresso",
+    "name": "Why Do Teenagers Get Acne?",
     "price": 32000,
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-7.webp",
+    "image": "src/static/news/facemap1.png",
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
     "categoryId": ["coffee"],
     "variantId": ["size", "topping"]
   },
   {
     "id": 8,
-    "name": "Green Tea Latte",
+    "name": "How to Build a Morning and Evening Skincare Routine?",
     "price": 25000,
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-square-8.webp",
+    "image": "src/static/news/tip1.png",
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
     "categoryId": ["matcha"],
     "variantId": ["size", "topping"]
   },
   {
     "id": 9,
-    "name": "Bộ 3 Blue Corner Coffee siêu HOT",
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-rect-1.webp",
-    "price": 25000,
+    "name": "Different Types of Acne and Treatment",
+    "image": "src/static/Categories/various-acne.png",
+    "price": 0,
     "sale": {
       "type": "percent",
       "percent": 0.2
@@ -86,12 +86,12 @@
   },
   {
     "id": 10,
-    "name": "Combo Hi Tea Aroma",
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-rect-2.webp",
-    "price": 57000,
+    "name": "Acne Face Map",
+    "image": "src/static/news/facemap2.png",
+    "price": 0,
     "sale": {
       "type": "fixed",
-      "amount": 7000
+      "amount": 0
     },
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
     "categoryId": ["coffee", "drinks"],
@@ -99,9 +99,9 @@
   },
   {
     "id": 11,
-    "name": "Milk Tea Combo",
-    "price": 55000,
-    "image": "https://stc-zmp.zadn.vn/templates/zaui-coffee/dummy/product-rect-3.webp",
+    "name": "Tip for Treating Comedonal Acne",
+    "price": 0,
+    "image": "src/static/news/tip2.png",
     "description": "There is a set of mock banners available <u>here</u> in three colours and in a range of standard banner sizes",
     "categoryId": ["milktea"],
     "variantId": ["size", "topping"],

@@ -5,6 +5,8 @@ import { Welcome } from "./welcome";
 import { Banner } from "./banner";
 import { Categories } from "./categories";
 import { Recommend } from "./recommend";
+import { News } from "./news";
+
 import { ProductList } from "./product-list";
 import { Divider } from "components/divider";
 
@@ -14,12 +16,12 @@ const HomePage: React.FunctionComponent = () => {
       <Welcome />
       <Box className="flex-1 overflow-auto">
         <Inquiry />
-        <Banner />
         <Suspense>
           <Categories />
         </Suspense>
+        <Banner />
         <Divider />
-        <Recommend />
+        <News />
         <Divider />
         <ProductList />
         <Divider />

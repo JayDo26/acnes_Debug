@@ -296,8 +296,8 @@ export const phoneState = selector<string | boolean>({
         "Chi tiết tham khảo: ",
         "https://mini.zalo.me/blog/thong-bao-thay-doi-luong-truy-xuat-thong-tin-nguoi-dung-tren-zalo-mini-app"
       );
-      console.warn("Giả lập số điện thoại mặc định: 0337076898");
-      return "0337076898";
+      console.warn("Giả lập số điện thoại mặc định: 0123456789");
+      return "0123456789";
     }
     return false;
   },
